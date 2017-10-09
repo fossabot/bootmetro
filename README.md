@@ -1,4 +1,6 @@
 # BootMetro
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fbootmetro.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fbootmetro?ref=badge_shield)
+
 
 
 BootMetro provides simple and flexible HTML, CSS, and Javascript for web apps that wants to use the "Windows 8 MetroUI" style, without the need to run on Windows 8.
@@ -99,6 +101,9 @@ This release is based on Twitter Bootstrap 2; the v2.0 will be completely redone
 ## License
 BootMetro is dual licensed, GPL-2 and Apache-2; see the LICENSE file.
 
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fbootmetro.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fbootmetro?ref=badge_large)
+
 ## Links
 
 ### Official Metro UI Guidelines
@@ -120,4 +125,3 @@ BootMetro is dual licensed, GPL-2 and Apache-2; see the LICENSE file.
 * [Choosing a tile template](http://msdn.microsoft.com/en-us/library/windows/apps/hh761491.aspx)
    
 * [Tile image sizes](http://msdn.microsoft.com/en-us/library/windows/apps/hh781198.aspx)
-
